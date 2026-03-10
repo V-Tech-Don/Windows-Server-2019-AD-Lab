@@ -1,27 +1,25 @@
 **Module 1: Configuration, and Promotion**
 - Lab 1-1: Configure Time Zone, Networking, and Computer Name
-  - (Task A): Configuring Server A (Deadpool)'s Networking
+  - **(Task A): Configuring Server A (Deadpool)'s Networking**
 
-   - <img width="1024" height="768" alt="Local Server" src="https://github.com/user-attachments/assets/452ef82b-f143-487d-aa32-9039097e574f" />
+   <img width="1024" height="768" alt="Local Server" src="https://github.com/user-attachments/assets/64e34433-7136-4c0d-9f42-5afcf2fb6bcf" />
 
 <img width="1024" height="768" alt="Date and Time" src="https://github.com/user-attachments/assets/546d9dfd-e505-43dc-966a-ef4253dc1a89" />
 
-<img width="1024" height="768" alt="Static Addressing" src="https://github.com/user-attachments/assets/3df8ba3c-12ff-4ac8-8688-c6174c002372" />
+<img width="1024" height="768" alt="Static Addressing" src="https://github.com/user-attachments/assets/ed32c922-b09d-424c-a93b-beeeed59d4a2" />
 
-<img width="1024" height="768" alt="Static Addressing" src="https://github.com/user-attachments/assets/04f94148-35e9-4d84-af0f-83554b01ec13" />
-
-  - (Task B): Configuring Server B's Networking
+  - **(Task B): Configuring Server B's Networking**
 
 <img width="1024" height="768" alt="Local Server" src="https://github.com/user-attachments/assets/c31154f8-6eab-4575-8fd0-1ebd351899e1" />
 
 <img width="1024" height="768" alt="Date   Time" src="https://github.com/user-attachments/assets/043e8597-6db0-4787-9ffe-260139883415" />
 
-<img width="1024" height="768" alt="Static Addressing" src="https://github.com/user-attachments/assets/29cf879f-2abb-4860-b8a9-f05810d10192" />
+<img width="1024" height="768" alt="Static Addressing" src="https://github.com/user-attachments/assets/f8d36449-1049-49ce-b521-7b7af9868792" />
 
 <img width="1024" height="768" alt="Computer Name" src="https://github.com/user-attachments/assets/184e2ce4-0e07-47ae-8ccf-2b71ab05e30a" />
 
-- Lab 1-2: Active Directory Domain Services Installation
-  - (Task A): Promoting your first server to a Domain Controller
+- **Lab 1-2: Active Directory Domain Services Installation**
+  - **(Task A): Promoting your first server to a Domain Controller**
 
 <img width="1024" height="768" alt="Server Manager" src="https://github.com/user-attachments/assets/89db2dd0-29cd-4447-b15e-434b578fb2b5" />
 
@@ -37,4 +35,12 @@
 
 <img width="1024" height="768" alt="NetBIOS domain name" src="https://github.com/user-attachments/assets/f5fc683e-0742-47e6-8018-8162d07465a7" />
 
-<img width="1024" height="768" alt="Prerequisites Check" src="https://github.com/user-attachments/assets/feda39bf-b3e9-4f0e-a8b5-3964b91eff8a" />
+  - **(Task B): Promoting your second server as a peer Domain Controller**
+
+<img width="1024" height="768" alt="Credentials 1" src="https://github.com/user-attachments/assets/3ad0d312-4ac6-4703-8813-9c713335d605" />
+
+<img width="1024" height="768" alt="Password 2" src="https://github.com/user-attachments/assets/61241c00-8400-4c5f-83ca-a14813fb1ea3" />
+
+<img width="1024" height="768" alt="Delegation cannot be created 3" src="https://github.com/user-attachments/assets/c4c9546e-b5f0-4be8-97ad-5dfcbda4867b" />
+
+<img width="1024" height="768" alt="Next and Install 4" src="https://github.com/user-attachments/assets/3c082796-acda-450e-a791-9babef276cef" />
