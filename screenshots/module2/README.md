@@ -86,9 +86,31 @@
 <img width="791" height="106" alt="Sites to Include 2" src="https://github.com/user-attachments/assets/c98561fc-4454-40df-bf16-96eabf5e09fa" />
 <img width="1024" height="768" alt="Sites to Include 3" src="https://github.com/user-attachments/assets/686e6175-41b1-4396-8823-d2a521df6559" />
 
+- **Lab 2-10: Configure Site Link Replication Frequency and Schedule**
 
+<img width="1024" height="768" alt="Replication Not Available 1" src="https://github.com/user-attachments/assets/ab2563bc-931a-46df-91d7-9ac5dbf98787" />
+<img width="787" height="124" alt="Site Link Names 2" src="https://github.com/user-attachments/assets/5c50b99d-f1e0-41c9-a661-b7170b83c9e0" />
+<img width="1024" height="768" alt="Active Directory Sites and Services 3" src="https://github.com/user-attachments/assets/ca7add29-63ae-4a36-87a0-d694de58ba60" />
 
+- **Lab 2-11: Configuring Default Domain Account Policies** 
 
+<img width="1024" height="768" alt="Group Policy Management 1" src="https://github.com/user-attachments/assets/e14daea3-1ff2-43fb-b461-eec6a57275ec" />
+<img width="1024" height="768" alt="Password Policy 2" src="https://github.com/user-attachments/assets/5a130e3c-021e-4e14-aac0-1cdd4d86da87" />
+<img width="786" height="151" alt="Chart configuration 3" src="https://github.com/user-attachments/assets/32894d01-9b5c-40e2-82d9-b25657d5b0ef" />
+<img width="1024" height="768" alt="Configuration 4" src="https://github.com/user-attachments/assets/1ddb9867-1ec0-414a-939c-71762322c1b1" />
 
+- **Lab 2-12: Configuring Default Domain Account Lockout Policies**
 
+<img width="1024" height="768" alt="Edit 1" src="https://github.com/user-attachments/assets/18d034c3-c890-48e8-b18f-7490feaf8a0f" />
+<img width="1024" height="768" alt="Account Lockout Policy 2" src="https://github.com/user-attachments/assets/48bfed0c-0281-4376-a267-a7a4502bc423" />
+<img width="790" height="80" alt="Configuration Chart 3" src="https://github.com/user-attachments/assets/1ccb2dcd-45fc-4f42-94ff-2f2feb6caf0c" />
+<img width="1024" height="768" alt="Group Policy Management Finish 4" src="https://github.com/user-attachments/assets/35fa5a53-72bb-4307-b8ee-4fad7252aa43" />
+
+- **Lab 2-13: Configuring Default Domain Account Lockout Policies**
+
+<img width="1024" height="768" alt="Kerberos Policy 1" src="https://github.com/user-attachments/assets/866394b5-0d81-43b2-bca8-5d9e4434f2b3" />
+<img width="796" height="156" alt="Kerberos Configurations 2" src="https://github.com/user-attachments/assets/c533164b-b4f7-4ecc-b86c-c3dceb61b4bf" />
+<img width="1024" height="768" alt="Kerberos Finish 3" src="https://github.com/user-attachments/assets/48c55488-b5d9-4636-b8bb-f313dd9b6f66" />
+
+- **Lab 2-14: Configuring Default Domain User Rights**
 
