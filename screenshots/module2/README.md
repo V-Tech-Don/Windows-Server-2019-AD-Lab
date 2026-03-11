@@ -114,3 +114,38 @@
 
 - **Lab 2-14: Configuring Default Domain User Rights**
 
+<img width="1024" height="768" alt="Add Workstations to Domains 1" src="https://github.com/user-attachments/assets/fed0b2f3-fe48-47f4-b1b3-6d2f02a73d1c" />
+<img width="1024" height="768" alt="Newcorp Domain Users 2" src="https://github.com/user-attachments/assets/62676f61-3be1-4b2f-9b11-91f2513fddcd" />
+<img width="1024" height="768" alt="Results 3" src="https://github.com/user-attachments/assets/cbe4ad4b-28a7-4b0f-8853-8dda5791442b" />
+<img width="1024" height="768" alt="Change the time zone 4" src="https://github.com/user-attachments/assets/2b2d52f1-bd6b-48f8-aaa7-43799021277c" />
+<img width="1024" height="768" alt="Change the System Time 5" src="https://github.com/user-attachments/assets/c2df1945-0c0d-408a-9703-f5ad828be6af" />
+
+- **Lab 2-15: Creating and Linking GPOs**
+
+<img width="1024" height="768" alt="Create a GPO in This Domain and Link it Here 1" src="https://github.com/user-attachments/assets/373bfcaf-3e40-45f8-9ecd-47eb33d5cf6d" />
+<img width="1024" height="768" alt="NJ Desktop User Configuration 2" src="https://github.com/user-attachments/assets/38895b9b-d723-4305-a449-e31dbdf1ce4b" />
+<img width="1024" height="768" alt="Edit NJ Desktop User Configuration 3" src="https://github.com/user-attachments/assets/cae2bacf-b6ec-44c0-ad03-298f7d20d0fb" />
+<img width="1024" height="768" alt="Enable Policy Settings 4" src="https://github.com/user-attachments/assets/03fd28b1-f423-42ef-a290-fa6dd6ee402e" />
+<img width="1024" height="768" alt="Link an Existing GPO 5" src="https://github.com/user-attachments/assets/2fcf8407-cab9-4e2a-a129-6ac8159a6050" />
+<img width="1024" height="768" alt="Link NJ Desktop User Configuration 6" src="https://github.com/user-attachments/assets/5a44fd17-2121-4b70-9785-258e6a5f68f7" />
+<img width="1024" height="768" alt="Florida Create a GPO in This Domain and Link it Here 7" src="https://github.com/user-attachments/assets/7c27c8da-2ab4-42c5-812f-19f196b19f85" />
+<img width="1024" height="768" alt="Florida Control Panel Policy 8" src="https://github.com/user-attachments/assets/6e5da470-840d-4371-a844-e854dfb0fef5" />
+
+- **Lab 2-16: Configuring Folder Redirection via Group Policy**
+
+<img width="1024" height="768" alt="Deadpool DC1 1" src="https://github.com/user-attachments/assets/24b573cb-7b60-4282-8ac2-d3a9abf1e6e8" />
+<img width="1024" height="768" alt="FOLDER_REDIR 2" src="https://github.com/user-attachments/assets/5df11f5c-15a0-40eb-8bd6-40f299d2021b" />
+<img width="1024" height="768" alt="Advanced Sharing 3" src="https://github.com/user-attachments/assets/d2636d62-6574-4df1-bbbc-a93ee6f1793e" />
+<img width="1024" height="768" alt="Domain User Folder Redirection Policy 4" src="https://github.com/user-attachments/assets/d868af75-405d-40eb-b42a-f129610063e1" />
+<img width="1024" height="768" alt="Edit Domain User Folder Redirection Policy 5" src="https://github.com/user-attachments/assets/a2c4134b-0f58-4f9d-9335-60b711b3f337" />
+<img width="1024" height="768" alt="Properties 6" src="https://github.com/user-attachments/assets/ed6e264a-2c5d-4d38-93ce-6bc4e3515fc8" />
+<img width="1024" height="768" alt="Root Path 7" src="https://github.com/user-attachments/assets/8fe3f29d-04cf-4fbe-8486-227c3626014d" />
+
+- **Lab 2-17: Enabling Site GPO Usage**
+
+<img width="1024" height="768" alt="Show Sites 1" src="https://github.com/user-attachments/assets/612dcba8-4257-4948-9c40-362184b6a224" />
+<img width="1024" height="768" alt="Sites 2" src="https://github.com/user-attachments/assets/6e8ba0b4-7bbb-4bc5-906b-b4b7ef007dce" />
+
+- **Lab 2-18: Force a Group Policy Update**
+
+<img width="1024" height="768" alt="Powershell Administrator 1" src="https://github.com/user-attachments/assets/0932b09d-c561-4acd-a043-a0c3e96e2215" />
