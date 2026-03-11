@@ -64,3 +64,8 @@
 
 - **Lab 3-7: Configuring Zone Aging/Scavenging**
   
+<img width="1024" height="768" alt="Scavenge Stale Resource Records 1" src="https://github.com/user-attachments/assets/202333f7-a39c-4324-a255-a88130ec65bb" />
+<img width="1024" height="768" alt="Apply These Settings to the Existing Active Directory-Integrated Zones 2" src="https://github.com/user-attachments/assets/f6825e7d-55c4-4400-a153-843f10cd72c7" />
+<img width="1024" height="768" alt="Scavenge Stale Resource Records 3" src="https://github.com/user-attachments/assets/7bcf4b22-f8ab-4f16-a376-ef49366bf046" />
+
+- **Lab 3-8: Creating a Stub Zone**
