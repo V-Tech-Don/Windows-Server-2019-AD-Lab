@@ -69,3 +69,62 @@
 <img width="1024" height="768" alt="Scavenge Stale Resource Records 3" src="https://github.com/user-attachments/assets/7bcf4b22-f8ab-4f16-a376-ef49366bf046" />
 
 - **Lab 3-8: Creating a Stub Zone**
+
+<img width="1024" height="768" alt="Delete Sales From DeadPool Contoso DNS Manager1" src="https://github.com/user-attachments/assets/92bf256e-3986-49ad-8ff7-1af93f6cb374" />
+<img width="1024" height="768" alt="Delete Sales dot Contoso dot Com From Wolverine DNS Manager 2" src="https://github.com/user-attachments/assets/92474682-5c1c-45eb-9554-a85bad161f71" />
+<img width="1024" height="768" alt="New Zone Forward Lookup Zone 3" src="https://github.com/user-attachments/assets/29da5aac-6994-4e20-90be-ce62a4874093" />
+<img width="1024" height="768" alt="Stub Zone 4" src="https://github.com/user-attachments/assets/e9d9b022-38d8-4353-a296-469ca125fcdc" />
+<img width="1024" height="768" alt="Contoso dot Com Zone Name 5" src="https://github.com/user-attachments/assets/faf7b0a1-6f5a-42ca-ab87-6e149b9da295" />
+<img width="1024" height="768" alt="Master DNS Servers Server FQDN 6" src="https://github.com/user-attachments/assets/6ca5923f-b69e-4bed-8ab0-6bbb18456f8e" />
+<img width="1024" height="768" alt="Transfer New Copy of Zone From Master 7" src="https://github.com/user-attachments/assets/4fe8d6ba-8b56-4d33-8d81-cda0aea7bdce" />
+<img width="1024" height="768" alt="Refresh 8" src="https://github.com/user-attachments/assets/e7646b24-205a-4023-a627-84e9da025bdf" />
+
+- **Lab 3-9: Using Round Robin for Cluster Name Resolution**
+
+<img width="1024" height="768" alt="DeadPool New Host (A or AAAA) 1" src="https://github.com/user-attachments/assets/6a331e01-c927-4c27-8233-41d6949035c4" />
+<img width="1024" height="768" alt="DNS Manager 2" src="https://github.com/user-attachments/assets/53f1a2dd-04cd-41e6-bbdb-69639c9ef57d" />
+<img width="1024" height="768" alt="DNS Manager 3" src="https://github.com/user-attachments/assets/fe5772ac-5166-4a7c-8d36-c4bb8b49a098" />
+<img width="1024" height="768" alt="DNS Manager 4" src="https://github.com/user-attachments/assets/6dbc77bd-145f-4cdb-9375-f32ffdea55f7" />
+<img width="1024" height="768" alt="DNS Manager End Result 5" src="https://github.com/user-attachments/assets/acb8f953-41fb-49ac-ae70-7f6a2120d8b9" />
+
+- **Lab 3-10: Configuring DNSSEC for a Zone**
+
+<img width="1024" height="768" alt="Primary Zone in Forward Lookup Zones 1" src="https://github.com/user-attachments/assets/bddb3c20-ce8e-46b5-927f-f803bbae4c3d" />
+<img width="1024" height="768" alt="Zone Name is RESDEV dot LOCAL 2" src="https://github.com/user-attachments/assets/ca8870c1-5d6b-4b8c-9296-c8a16c05b778" />
+<img width="1024" height="768" alt="RESDEV New Host (A or AAAA) 3" src="https://github.com/user-attachments/assets/a4bfe74b-0426-41ce-b06d-196c2604d309" />
+<img width="1024" height="768" alt="DEADPOOL RESDEV LOCAL 4" src="https://github.com/user-attachments/assets/31f176d4-58bf-4a61-ae80-723acf913bc3" />
+<img width="1024" height="768" alt="WOLVERINE RESDEV LOCAL 5" src="https://github.com/user-attachments/assets/27acba7a-7fe3-4025-afca-59c71267f362" />
+<img width="1024" height="768" alt="Open Windows Powershell 6" src="https://github.com/user-attachments/assets/db9f6d70-bdf4-42ca-adee-daa7d185c913" />
+<img width="1024" height="768" alt="Powershell Resolve DNS Name 7" src="https://github.com/user-attachments/assets/a32a7863-5ff0-4f1f-8287-a1101e1d8ffc" />
+<img width="1024" height="768" alt="DNSSEC Sign the Zone 8" src="https://github.com/user-attachments/assets/3eed360b-6b0a-4c80-b232-931a15db08f6" />
+<img width="1024" height="768" alt="Use Default Settings to Sign the Zone 9" src="https://github.com/user-attachments/assets/a808a07e-5795-43a5-86f6-6aca0d9c78fb" />
+
+- **Lab 3-11: Configuring DNS Socket Pool**
+
+<img width="1024" height="768" alt="Powershell Admin 1" src="https://github.com/user-attachments/assets/a9189d0e-413b-446d-b8ee-5a8b570cadcc" />
+<img width="1024" height="768" alt="Power Shell Admin DNSCMD 2" src="https://github.com/user-attachments/assets/0cfa94b0-ab15-4233-8f41-c60822eabb5e" />
+<img width="1024" height="768" alt="Powershell Admin Socketpoolsize 3" src="https://github.com/user-attachments/assets/5d606ce7-3756-44b9-a1c6-2de16712f59c" />
+
+- **Lab 3-12: Configuring Cache Locking**
+
+<img width="1024" height="768" alt="Cache Locking Commands 1" src="https://github.com/user-attachments/assets/31a7ce9b-b061-4f2e-b66a-5164b2118cd3" />
+
+- **Lab 3-13: Enable Response Rate Limiting**
+
+<img width="1024" height="768" alt="Tools Windows Powershell 1" src="https://github.com/user-attachments/assets/22ea0472-ebbc-4ce1-9ece-19014fab8a09" />
+<img width="1024" height="768" alt="Enable Response Rate Limiting 2" src="https://github.com/user-attachments/assets/9de98ec7-808a-47a4-aaf9-6a3568f7809e" />
+
+- **Lab 3-14: Implement DNS Policy**
+
+<img width="1024" height="768" alt="Implement DNS Policy 1" src="https://github.com/user-attachments/assets/462eb3d0-d600-4268-ab81-d03f825785fe" />
+
+- **Lab 3-15: Viewing DNS Logging**
+
+<img width="1024" height="768" alt="Filter Current Log 1" src="https://github.com/user-attachments/assets/1bbd3c05-6e5d-4f44-b4ac-d512a385fe01" />
+<img width="1024" height="768" alt="Checking for Issues With DNS Server Service 2" src="https://github.com/user-attachments/assets/f43f71cf-661d-41a3-af66-2826d5d6366b" />
+
+- **Lab 3-16: Configuring DNS Debug Logging**
+
+<img width="1024" height="768" alt="Deadpool Properties 1" src="https://github.com/user-attachments/assets/44ac60b4-94b3-4441-b487-c848c12fe32f" />
+<img width="1024" height="768" alt="Debug Logging 2" src="https://github.com/user-attachments/assets/4a620207-d7a6-43bd-ba6c-450c04145605" />
+
